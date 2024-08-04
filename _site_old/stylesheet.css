@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;900&display=swap');
+@font-face {
+    font-family: 'Poppins', sans-serif; 
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@100&display=swap');
+@font-face {
+    font-family: 'Merriweather', serif; 
+}
+
+@media (min-width:1000px) { 
+     #main-container {
+        width: 800px;
+        margin: auto;
+    }
+
+}
+
+
+h1 {
+    color: darkGreen;
+    font-family: Poppins;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: Poppins;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: Poppins;
+    font-size: 1em;
+}
+
+ul {
+        line-height: 1.3em;
+}
+
+p {
+    font-family: Merriweather;
+    line-height: 1.3em;
+}
+
+a {
+
+}
+
+a:link {
+    color:  green;
+}
+
+a:visited {
+    color: darkGreen;
+}
+
+a:hover {
+    color: darkGreen;
+}
+
+
+.headshot {
+    width: 35vw;
+    height: 35vw;
+    border-radius: 5%;
+}
+
+#footer {
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 2%;
+    padding: 2%;
+    background-color: whiteSmoke;
+    text-align: center;
+}
+
+#footer p {
+    font-family: Poppins;
+    font-size: .75em;
+}
+
+#nav {
+    padding-top: 3em;
+    margin: auto;
+    text-align: center;
+}
+
+.menu-item {
+    font-family: Poppins;
+
+}
+
+.group-image {
+    width: 35vw;
+    height: 35vw;
+    object-fit: cover;
+    border-radius: 5%;
+
+}
+
+#slideshow {
+    margin: auto;
+    border-radius: 10%;
+}
+
+.mySlides {
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+    border-radius: 10px;
+}

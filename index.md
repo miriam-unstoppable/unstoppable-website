@@ -11,11 +11,10 @@ Our collaborative creative workspace✳︎ supports makers of all experience and
 
 You can read more about the [vision](vision.html) that grounds our mission and [our plans for the future](future.html) here.
 
-✳︎We're still working on the workspace part. For now, we offer [creative groups](),[therapy and coaching]() online and in a variety of community spaces. 
+✳︎We're still working on the workspace part. For now, we offer [creative groups](), [therapy and coaching]() online and in a variety of community spaces. 
 
 
 <div id="slideshow">
-
 
   <img class="mySlides" src="images/slideshow/1.jpg" alt="a desk with metalworking supplies and a person handling a piece of wire">
   <img class="mySlides" src="images/slideshow/2.jpg" alt = "2 cups with batteries and motors attached to markers, coloring scribbles on paper">
@@ -81,11 +80,11 @@ Unstoppable Studios was born out of a desire to further explore the intersection
 
 <img class="headshot" src="images/headshot-paige.jpeg" alt="photo of a smiling white woman with long, dark, straight hair" title="Paige Kirstein"/>
 
-**Paige Kirstein** ... [1-2 sentences about you]... Paige brings her vast knowledge and expertise in philanthropy and management to serve as treasurer of Unstoppable&#39;s board. 
+**Paige Kirstein** Paige Kirstein works in philanthropy with a focus on advancement of low wage workers in California. She sits on the board of Corporate Accountability working towards a world that centers the needs of people over transnational corporations. She is passionate about the work of wealth and power redistribution and puts her passion into action through donor organizing to put wealth and power into the hands of people most impacted by inequality. Paige brings her vast knowledge and expertise in financial services, management, and philanthropy to serve as treasurer of Unstoppable's board. 
 
 <img class="headshot" src="images/headshot-sophie.jpeg" alt="photo of a smiling white woman with shoulder length, curly, brown hair. Wearing a blazer" title="Sophia Zisook"/>
 
-**Sophia Zisook** is a licensed social worker and the Director of Organizational Partnerships at Hello Alice, a free resource for small business owners providing direct grants, guides, and events all designed to support under-resourced entrepreneurs, predominantly women and entrepreneurs of color, launch and grow their businesses. Sophia is the founder and CEO of Negotiate with Sophia, dedicated to coaching Women, BIPOC, Queer people, nonprofit professionals, and others most disadvantaged by pay inequality to negotiate salary and benefits. Sophia (also Miriam's sister in law) uses her expertise in non-profit startup and leadership development to serve as secretary of Unstoppable&#39;s board. 
+**Sophia Zisook** is a licensed social worker and the Director of Organizational Partnerships at Hello Alice, a free resource for small business owners providing direct grants, guides, and events all designed to support under-resourced entrepreneurs, predominantly women and entrepreneurs of color, launch and grow their businesses. Sophia is the founder and CEO of Negotiate with Sophia, dedicated to coaching Women, BIPOC, Queer people, nonprofit professionals, and others most disadvantaged by pay inequality to negotiate salary and benefits. Sophia uses her expertise in non-profit startup and leadership development to serve as secretary of Unstoppable&#39;s board. 
 
 <img class="headshot" src="images/headshot-liz.jpeg" alt="photo of a smiling white woman standing with her hand on her hip" title="Elizabeth Aeschlimann"/>
 
@@ -93,7 +92,7 @@ Unstoppable Studios was born out of a desire to further explore the intersection
 
 <img class="headshot" src="images/headshot-natalie.jpeg" alt="photo of a smiling white woman with shoulder length, curly, brown hair. Wearing a beaded necklace" title="Natalie Russ"/>
 
-**[Dr. Natalie Russ](https://www.natalierusspsyd.com/)** is a psychotherapist working as an associate with Wakefield Psychotherapy Associates. She has particular experience addressing issues of racial and political trauma, supporting activists, and addressing issues of power and harm within therapy. Natalie uses her clinical expertise and knowledge to advise Unstoppable on matters of clinical and ethical concern. 
+**[Dr. Natalie Russ](https://www.natalierusspsyd.com/)** is a psychologist and psychotherapist in private practice. In addition to general practice, she has particular expertise in addressing issues of power and harm within therapy. Natalie uses her clinical experience and knowledge to advise Unstoppable on matters of clinical and ethical concern.
 
 <img class="headshot" src="images/widget.jpeg" alt="photo of a tiny dog, chihuaha and papillon mix. She has large black ears and a white stripe down the center of her face" title="Widget"/>
 

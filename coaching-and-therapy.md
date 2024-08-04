@@ -6,7 +6,7 @@ layout: homepage_layout
 ---
 # Therapy & Coaching
 
-There are a handful of different ways to work with us, including [creative groups](groups.html), therapy and coaching. If you&#39;d like to work with us, you can schedule a free 20-30 minute call during which we&#39;ll explore your goals and determine together what mix of coaching, therapy and/or groups will best meet your needs. 
+There are a handful of different ways to work with us, including [creative groups](groups.html), [consultation](consultation.html), therapy and coaching. If you&#39;d like to work with us, you can schedule a free 20-30 minute call during which we&#39;ll explore your goals and determine together what mix of coaching, consultation, therapy and/or groups will best meet your needs. 
 
 ## **Therapy (with Miriam)**
 
@@ -39,6 +39,6 @@ Coaching might be right for you if&#8230;
 
 ## Fees and Insurance
 
-Coaching costs $130 per hour and therapy costs $140 per hour. Some sliding scale and reduced fee sessions are available, so please ask if that is what you need to make these offerings accessible. 
+Coaching costs $140 per 50 minute session and therapy costs $150 per 53 minute session. Reduced fee arrangements are available, so please ask if that is what you need to make these offerings accessible. 
 
-Miriam anticipates joining the networks of Optum, Cigna, Blue Cross Blue Shield, Aetna and Tufts insurance in late winter/ early Spring 2022.
+For therapy, Miriam is an in network provider with Aetna, Cigna, Blue Cross Blue Shield and Optum. 
