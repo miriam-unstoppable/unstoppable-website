@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: homepage_layout
 ---
-# Consultation and resources
+# Consultation and resources!
 
 ## Unstoppable Studios Consultation Services
 Awareness of Autism, particularly among adults who were not recognized as Autistic in childhood, is growing quickly. There is significant need these days for support and guidance among individuals exploring whether they might be Autistic and among therapists supporting clients who have begun this journey. In order to help meet this growing need I provide consultation services. 
